@@ -1,0 +1,32 @@
+[
+    {"id":1,
+    "tiemestamp":1651673456534,
+    "productos":
+                [
+                    {"id":4,
+                    "timestamp":1651671975632,
+                    "nombre":"Reel Okuma Komodo",
+                    "descripcion":"Reel Okuma Komodo 8 Rulemanes",
+                    "codigo":"OKUM-REEL-KOMO",
+                    "foto":"https://elsoldaditodeplomo.com.ar/wp-content/uploads/2020/01/Reel-Okuma-Komodo-8-Rulemanes.jpg",
+                    "precio":"200",
+                    "stock":"3"},
+                    {"id":6,
+                    "timestamp":1651672542372,
+                    "nombre":"Reel Shimano Slx 150",
+                    "descripcion":"Reel Shimano Slx 150 Hg 7.2:1",
+                    "codigo":"SHIM-SLX151-HG",
+                    "foto":"https://elsoldaditodeplomo.com.ar/wp-content/uploads/2020/03/Reel-Shimano-Slx-Xt-151-Hg.jpg",
+                    "precio":"200",
+                    "stock":"3"},
+                    {"id":3,
+                    "timestamp":1651527746381,
+                    "nombre":"Reel Kunnan Verna",
+                    "descripcion":"Reel Kunnan Verna",
+                    "codigo":"KUNN-REEL-VERNA",
+                    "foto":"https://elsoldaditodeplomo.com.ar/wp-content/uploads/2019/11/Reel-Waterdog-Verna.jpg",
+                    "precio":"200",
+                    "stock":"2"}
+                ]
+    }
+]
